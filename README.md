@@ -5,6 +5,8 @@ Beginner cheat sheet for the Arch Linux terminal
 Shortcut | Description
 ---|---
 history | Lists all used commands
+cd "path" | Change directory to specified path
+mkdir "directory name" | Create directory
 
 ## Pacman
 Shortcut | Description 
