@@ -4,7 +4,7 @@ Beginner cheat sheet for the Arch Linux terminal
 ## Terminology
 Symbol | Description
 ---|---
-~ | Home directory
+~/ | Home directory
 ."file name" | dot files / hidden files
 
 ## General
