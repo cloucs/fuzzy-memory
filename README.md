@@ -28,3 +28,8 @@ Shortcut | Description
 nano | Start nano
 Ctrl+o | Save file
 Ctrl+x | Exit file
+
+### Set nano as default editor
+`$ echo "export EDITOR=/usr/bin/nano" >> ~./zshrc`
+
+`$ echo "export VISUAL=/usr/bin/nano" >> ~./zshrc`
