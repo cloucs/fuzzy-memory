@@ -1,6 +1,12 @@
 # fuzzy-memory
 Beginner cheat sheet for the Arch Linux terminal
 
+## Terminology
+Symbol | Description
+---|---
+~ | Home directory
+."file name" | dot files / hidden files
+
 ## General
 Shortcut | Description
 ---|---
@@ -30,6 +36,6 @@ Ctrl+o | Save file
 Ctrl+x | Exit file
 
 ### Set nano as default editor
-`$ echo "export EDITOR=/usr/bin/nano" >> ~./zshrc`
+`$ echo "export EDITOR=/usr/bin/nano" >> ~/.zshrc`
 
-`$ echo "export VISUAL=/usr/bin/nano" >> ~./zshrc`
+`$ echo "export VISUAL=/usr/bin/nano" >> ~/.zshrc`
